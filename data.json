@@ -1,0 +1,39 @@
+{
+    "postpartumExercisePlan": {
+      "Monday": {
+        "morning": ["10-minute light-paced walk", "Pelvic floor (Kegel) exercises (8 reps)", "Gentle shoulder and arm stretches (5 reps per side)"],
+        "afternoon": ["Seated rowing with resistance tubing (8 reps)", "Gentle leg stretches for back and thighs (hold 10 seconds per side)", "Pelvic tilts (5 reps)"],
+        "evening": ["10-minute light walk", "Supported V-sits (5 reps per leg)", "Breathing exercises for relaxation (5 minutes)"],
+        "bonus": ["Fitness ball squats (5 reps)", "Modified side planks (10 seconds per side)"]
+      },
+      "Tuesday": {
+        "morning": ["15-minute light walk", "Arm circles (10 reps per side)", "Wall pushups (8 reps)"],
+        "afternoon": ["Seated leg stretches (10 seconds per leg)", "Light resistance tubing arm exercises (8 reps)", "Seated core engagement (5-second hold)"],
+        "evening": ["10-minute light walk", "Seated deadlifts (8 reps)", "Breathing exercises (5 minutes)"],
+        "bonus": ["One-leg V-sits (5 reps per side)", "Step-ups (5 reps per leg)"]
+      },
+      "Wednesday": {
+        "morning": ["10-minute light walk", "Shoulder stretches (5 reps per side)", "Wall pushups (8 reps)"],
+        "afternoon": ["Gentle back and thigh stretches", "Seated rowing (8 reps)", "Fitness ball squats (5 reps)"],
+        "evening": ["15-minute light walk", "Supported V-sits (5 reps per leg)", "Breathing exercises (5 minutes)"],
+        "bonus": ["Modified side planks (10 seconds per side)", "Step-ups (5 reps per leg)"]
+      },
+      "Thursday": {
+        "morning": ["10-minute moderate walk", "Gentle neck rotations (10 reps per side)", "Wall pushups (8 reps)"],
+        "afternoon": ["Seated leg stretches", "Light resistance tubing for arms (8 reps)", "Seated core engagement (5-second hold)"],
+        "evening": ["10-minute light walk", "Seated deadlifts (8 reps)", "Breathing exercises (5 minutes)"],
+        "bonus": ["One-leg V-sits (5 reps per side)", "Fitness ball squats (5 reps)"]
+      },
+      "Friday": {
+        "morning": ["10-minute moderate walk", "Shoulder and arm stretches (5 reps per side)", "Wall pushups (8 reps)"],
+        "afternoon": ["Gentle back and leg stretches", "Seated rowing (8 reps)", "Leg raises (5 reps per side)"],
+        "evening": ["15-minute walk", "Supported V-sits (5 reps per leg)", "Breathing exercises (5 minutes)"],
+        "bonus": ["Modified side planks (10 seconds per side)", "Step-ups (5 reps per leg)"]
+      },
+      "SaturdayAndSunday": {
+        "activities": ["Light 20-minute walks", "Full-body stretching (10 minutes)", "Gentle postpartum yoga poses"],
+        "bonus": ["Breathing exercises (5 minutes)", "Seated core strengthening"]
+      }
+    }
+  }
+  
